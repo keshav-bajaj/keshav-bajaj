@@ -4,9 +4,9 @@
 Contact me here: [keshav-bajaj.github.io](https://keshav-bajaj.github.io/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=keshav-bajaj&show_icons=true&count_private=true" />
-
-Here are some ideas to get you started:
 <!--
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
