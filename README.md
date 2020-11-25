@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Keshav!
+## Front-End Developer
 
-<!--
-**keshav-bajaj/keshav-bajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact me here: [keshav-bajaj.github.io](https://keshav-bajaj.github.io/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=keshav-bajaj&show_icons=true&count_private=true" />
 
 Here are some ideas to get you started:
 
